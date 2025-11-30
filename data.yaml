@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['butterfly', 'cow', 'dog', 'elephant', 'goat', 'hen', 'horse', 'spyder']
+
+roboflow:
+  workspace: erdokrmn
+  project: animals-detection-qbtsj
+  version: 13
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/erdokrmn/animals-detection-qbtsj/dataset/13
