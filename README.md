@@ -12,7 +12,7 @@ Eğitilen modelin gerçek dünya verileri üzerindeki test sonuçları aşağıd
 
 | 🐘 Fil Tespiti | 🕷️ Örümcek Tespiti | 🐓 Horoz Tespiti |
 | :---: | :---: | :---: |
-| ![Fil Tespiti](FilTahmin.jpg) | ![Örümcek Tespiti](ÖrümcekTahmin.jpg) | ![Horoz Tespiti](HorozTahmin.jpg) |
+| ![Fil Tespiti](FilTahmin.png) | ![Örümcek Tespiti](ÖrümcekTahmin.png) | ![Horoz Tespiti](HorozTahmin.png) |
 | *Model fili başarıyla çerçeve içine alıyor.* | *Küçük ve karmaşık yapılı örümcek tespiti.* | *Horoz tespiti ve sınıflandırması.* |
 
 ---
