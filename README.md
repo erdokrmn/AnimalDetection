@@ -76,7 +76,7 @@ from ultralytics import YOLO
 model = YOLO("yolo11s.pt") # Pre-trained model
 model.train(data="data.yaml", epochs=50, imgsz=640)
 🤝 İletişim
-Geliştirici: Erdo Krmn
+Geliştirici: Erdinç Karaman
 
 Bu proje hakkında sorularınız veya önerileriniz varsa GitHub üzerinden ulaşabilirsiniz.
 
